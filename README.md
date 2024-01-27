@@ -1,3 +1,3 @@
 Avid student of economics and computer science at NYU Stern School of Business. Always enthusiastic to work on C#/.NET projects. Please contact [ishan.pranav@stern.nyu.edu](mailto:ishan.pranav@stern.nyu.edu).
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanpranav&layout=compact&langs_count=20&hide=csv)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanpranav&layout=compact&langs_count=20&theme=transparent&hide=csv)
